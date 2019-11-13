@@ -12,4 +12,4 @@
   - ```.querySelectorAll()```는 ```.querySelector```와 다르게 선택자에 해당하는 모든 요소를 선택할 수 있습니다.
 - JavaScript에서 ```===```는 비교 연산자 입니다.
 - [Boolean](https://muckycode.blogspot.com/2015/01/javascript-boolean.html)은 True,False로 총 2개밖에 존재하지 않는 자료형이며 모든 프로그래밍 언어에 존재합니다.
-- IF문과 this의 활용을 통해 장황했던 코드들을 간결하게 수정하였습니다.
+- ```IF```와 ```this```를 활용하여 장황했던 코드들을 간결하게 수정하였습니다.
